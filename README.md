@@ -1,7 +1,5 @@
 # Raw results: Does the Vector Database Matter for Retrieval-Augmented Generation?
 
-<!-- After the first GitHub release is archived by Zenodo, replace this line with the Zenodo DOI badge. -->
-
 This repository holds the raw measurements, per-query results, generated answers and analysis outputs behind the paper:
 
 > *Does the Vector Database Matter for Retrieval-Augmented Generation? An Iso-Recall, End-to-End and Statistically Grounded Comparison of Qdrant, Weaviate and pgvector.*
@@ -87,4 +85,4 @@ This regenerates `analysis/stats.json`, `analysis/REPORT.md`, the tables and the
 
 ## Citation
 
-Please cite the paper and this repository; `CITATION.cff` holds the citation metadata (GitHub shows it under "Cite this repository"). The archived version of each release, with its DOI, is on Zenodo.
+Please cite the paper and this repository; `CITATION.cff` holds the citation metadata (GitHub shows it under "Cite this repository").

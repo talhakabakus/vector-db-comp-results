@@ -123,7 +123,7 @@ lines(X4 + 2, 92.8, ["Friedman + Nemenyi CD", "Wilcoxon (Pratt) · McNemar", "Ho
                      "paired bootstrap 95 % CI", "TOST equivalence (±2 pts)", "logistic EM ~ hit@5 + system",
                      "   (query-clustered SEs)"], size=12, gap=4.6)
 rqs = [("RQ1", "system performance", BENCH), ("RQ2", "retrieval quality", QD),
-       ("RQ3", "answer quality", RAG), ("RQ4", "filtered & hybrid search", QD)]
+       ("RQ3", "filtered & hybrid search", QD), ("RQ4", "answer quality", RAG)]
 for i, (rq, t, c) in enumerate(rqs):
     y0 = 50.0 - i * 6.6
     box(X4, y0, W4, 5.4, c, fill_a=0.18, lw=1.8, r=1.0)
