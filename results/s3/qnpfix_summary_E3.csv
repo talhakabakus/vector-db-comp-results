@@ -1,0 +1,15 @@
+,,,ndcg10,recall_gt
+db,,,qdrant,qdrant
+dataset,model,ef,,
+fiqa,bge-base,0010,0.3571,0.7525
+fiqa,bge-base,0016,0.3741,0.829
+fiqa,bge-base,0032,0.3894,0.9069
+fiqa,bge-base,0064,0.3963,0.9535
+fiqa,bge-base,0128,0.3991,0.9739
+fiqa,bge-base,0256,0.4029,0.9864
+trec-covid,bge-base,0010,0.7765,0.83
+trec-covid,bge-base,0016,0.7932,0.912
+trec-covid,bge-base,0032,0.7884,0.954
+trec-covid,bge-base,0064,0.7796,0.982
+trec-covid,bge-base,0128,0.7781,0.984
+trec-covid,bge-base,0256,0.7796,0.986

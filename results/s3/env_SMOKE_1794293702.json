@@ -1,0 +1,80 @@
+{
+  "preset": "SMOKE",
+  "cfg": {
+    "E3": [
+      [
+        "scifact",
+        "bge-base"
+      ]
+    ],
+    "E4": [
+      [
+        "scifact",
+        "bge-base"
+      ]
+    ],
+    "E5": [
+      [
+        "scifact",
+        "bge-base"
+      ]
+    ],
+    "EF10": [
+      10,
+      32,
+      128
+    ],
+    "EF100": [
+      100,
+      256
+    ],
+    "FILT_EF": [
+      64,
+      256
+    ],
+    "FILT_SEL": [
+      10,
+      100
+    ],
+    "QUERY_CAP": 300
+  },
+  "common": {
+    "M": 16,
+    "EF_C": 128,
+    "EF_INIT": 64
+  },
+  "versions": {
+    "QDRANT_TAG": "v1.20.0",
+    "WEAVIATE_TAG": "v1.40.4",
+    "PGVECTOR_TAG": "v0.8.7",
+    "PIP": [
+      "qdrant-client==1.20.0",
+      "weaviate-client==4.24.1",
+      "psycopg[binary]==3.3.8",
+      "pgvector==0.5.1",
+      "psutil",
+      "requests",
+      "pandas",
+      "pyarrow",
+      "scipy"
+    ]
+  },
+  "hyb_ef": 128,
+  "rrf_k": 60,
+  "bm25": {
+    "k1": 1.2,
+    "b": 0.75
+  },
+  "cpu_count": 4,
+  "ram_gb": 31.3,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.55+-x86_64-with-glibc2.39",
+  "started": "2026-11-10 06:55:02",
+  "py_pkgs": {
+    "qdrant-client": "1.20.0",
+    "weaviate-client": "4.24.1",
+    "psycopg": "3.3.8",
+    "pgvector": "0.5.1",
+    "scipy": "1.16.3"
+  }
+}

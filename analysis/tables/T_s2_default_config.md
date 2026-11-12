@@ -1,0 +1,8 @@
+| unit           | db       |   k |   recall |     qps |   mean_returned |
+|:---------------|:---------|----:|---------:|--------:|----------------:|
+| Quora/bge-base | pgvector |  10 |    0.977 | 429.619 |          10     |
+| Quora/bge-base | pgvector | 100 |    0.401 | 381.99  |          40.116 |
+| Quora/bge-base | Qdrant   |  10 |    0.989 | 294.418 |          10     |
+| Quora/bge-base | Qdrant   | 100 |    0.982 | 222.617 |         100     |
+| Quora/bge-base | Weaviate |  10 |    0.993 | 231.521 |          10     |
+| Quora/bge-base | Weaviate | 100 |    0.996 |  78.739 |         100     |

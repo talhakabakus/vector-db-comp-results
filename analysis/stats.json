@@ -1,0 +1,670 @@
+{
+  "s2_iso_recall": {
+    "friedman": {
+      "n_blocks": 19,
+      "mean_rank": {
+        "qdrant": 1.368,
+        "weaviate": 2.842,
+        "pgvector": 1.789
+      },
+      "chi2": 21.895,
+      "p": 1.7604281454347055e-05,
+      "nemenyi_cd": 0.76
+    },
+    "pairwise_wilcoxon": [
+      {
+        "a": "qdrant",
+        "b": "weaviate",
+        "median_ratio": 1.3145434657907726,
+        "p": 3.814697265625e-06,
+        "p_holm": 1.1444091796875e-05
+      },
+      {
+        "a": "qdrant",
+        "b": "pgvector",
+        "median_ratio": 1.0656159466373176,
+        "p": 0.6794281005859375,
+        "p_holm": 0.6794281005859375
+      },
+      {
+        "a": "weaviate",
+        "b": "pgvector",
+        "median_ratio": 0.8133542650108764,
+        "p": 0.00026702880859375,
+        "p_holm": 0.0005340576171875
+      }
+    ],
+    "wins": {
+      "Qdrant": 12,
+      "Weaviate": 0,
+      "pgvector": 7
+    },
+    "blocks": [
+      "FiQA/bge-base|k10|0.9",
+      "FiQA/bge-base|k10|0.95",
+      "FiQA/bge-base|k10|0.97",
+      "FiQA/bge-base|k10|0.98",
+      "FiQA/bge-base|k10|0.99",
+      "FiQA/bge-base|k100|0.95",
+      "HotpotQA-sub/bge-base|k10|0.9",
+      "HotpotQA-sub/bge-base|k10|0.95",
+      "HotpotQA-sub/bge-base|k10|0.97",
+      "HotpotQA-sub/bge-base|k10|0.98",
+      "HotpotQA-sub/bge-base|k100|0.95",
+      "Quora/bge-base|k10|0.97",
+      "Quora/bge-base|k10|0.98",
+      "Quora/bge-base|k10|0.99",
+      "Quora/bge-base|k100|0.99",
+      "Quora/bge-small|k10|0.97",
+      "Quora/bge-small|k10|0.98",
+      "Quora/bge-small|k10|0.99",
+      "Quora/bge-small|k100|0.99"
+    ]
+  },
+  "s2_wins_by_regime": {
+    "k=10, recall<0.99": {
+      "Qdrant": 5,
+      "Weaviate": 0,
+      "pgvector": 7
+    },
+    "recall=0.99 or k=100": {
+      "Qdrant": 7,
+      "Weaviate": 0,
+      "pgvector": 0
+    }
+  },
+  "s2_null_query_p50_ms": {
+    "pgvector": 0.249,
+    "Qdrant": 1.348,
+    "Weaviate": 1.529
+  },
+  "s2_planner_cliff": {
+    "exact_scan_point": {
+      "rep": 1.0,
+      "recall": 0.9975,
+      "qps": 0.8091,
+      "p50_ms": 1222.9588
+    },
+    "hnsw_ef256": {
+      "recall": 0.994,
+      "qps": 114.917,
+      "p50_ms": 8.6491
+    }
+  },
+  "s3_qnp_units": [
+    "fiqa/bge-base",
+    "fiqa/bge-small",
+    "hotpotqa_sub/bge-base",
+    "hotpotqa_sub/bge-small",
+    "nfcorpus/bge-base",
+    "nfcorpus/bge-small",
+    "quora/bge-base",
+    "quora/bge-small",
+    "scifact/bge-base",
+    "scifact/bge-small",
+    "squad/bge-base",
+    "squad/bge-small",
+    "trec-covid/bge-base",
+    "trec-covid/bge-small"
+  ],
+  "s3_e3_friedman": {
+    "ef10_recall_gt": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.179,
+        "weaviate": 2.821,
+        "pgvector": 1.0
+      },
+      "chi2": 24.327,
+      "p": 5.216747869983439e-06,
+      "nemenyi_cd": 0.886
+    },
+    "ef10_ndcg10": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.214,
+        "weaviate": 2.643,
+        "pgvector": 1.143
+      },
+      "chi2": 16.714,
+      "p": 0.0002347139880590819,
+      "nemenyi_cd": 0.886
+    },
+    "ef16_recall_gt": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.0,
+        "weaviate": 3.0,
+        "pgvector": 1.0
+      },
+      "chi2": 28.0,
+      "p": 8.31528719103568e-07,
+      "nemenyi_cd": 0.886
+    },
+    "ef16_ndcg10": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 1.929,
+        "weaviate": 2.786,
+        "pgvector": 1.286
+      },
+      "chi2": 15.857,
+      "p": 0.0003603007608242667,
+      "nemenyi_cd": 0.886
+    },
+    "ef32_recall_gt": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.214,
+        "weaviate": 2.786,
+        "pgvector": 1.0
+      },
+      "chi2": 23.286,
+      "p": 8.781554263053795e-06,
+      "nemenyi_cd": 0.886
+    },
+    "ef32_ndcg10": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.071,
+        "weaviate": 2.357,
+        "pgvector": 1.571
+      },
+      "chi2": 4.429,
+      "p": 0.10923150889627171,
+      "nemenyi_cd": 0.886
+    },
+    "ef64_recall_gt": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.0,
+        "weaviate": 2.857,
+        "pgvector": 1.143
+      },
+      "chi2": 20.571,
+      "p": 3.411701632372049e-05,
+      "nemenyi_cd": 0.886
+    },
+    "ef64_ndcg10": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 1.929,
+        "weaviate": 2.464,
+        "pgvector": 1.607
+      },
+      "chi2": 5.345,
+      "p": 0.06906361291957865,
+      "nemenyi_cd": 0.886
+    },
+    "ef128_recall_gt": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.179,
+        "weaviate": 2.607,
+        "pgvector": 1.214
+      },
+      "chi2": 15.057,
+      "p": 0.0005376504733124748,
+      "nemenyi_cd": 0.886
+    },
+    "ef128_ndcg10": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.036,
+        "weaviate": 2.25,
+        "pgvector": 1.714
+      },
+      "chi2": 2.235,
+      "p": 0.32704841569232956,
+      "nemenyi_cd": 0.886
+    },
+    "ef256_recall_gt": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.25,
+        "weaviate": 2.429,
+        "pgvector": 1.321
+      },
+      "chi2": 10.453,
+      "p": 0.005372751627510118,
+      "nemenyi_cd": 0.886
+    },
+    "ef256_ndcg10": {
+      "n_blocks": 14,
+      "mean_rank": {
+        "qdrant": 2.143,
+        "weaviate": 2.321,
+        "pgvector": 1.536
+      },
+      "chi2": 5.66,
+      "p": 0.05902541093159209,
+      "nemenyi_cd": 0.886
+    }
+  },
+  "s3_e3_pairwise_ndcg": {
+    "ef16": {
+      "n_tests": 42,
+      "n_sig_holm": 0,
+      "n_equiv_0p01": 5,
+      "max_abs_diff": 0.01918753795325756
+    },
+    "ef64": {
+      "n_tests": 42,
+      "n_sig_holm": 0,
+      "n_equiv_0p01": 32,
+      "max_abs_diff": 0.010440049692988396
+    },
+    "ef128": {
+      "n_tests": 42,
+      "n_sig_holm": 0,
+      "n_equiv_0p01": 40,
+      "max_abs_diff": 0.006631179712712765
+    }
+  },
+  "s3_e3_ndcg_gap_to_exact": {
+    "pgvector": {
+      "10": -0.0441,
+      "16": -0.0301,
+      "32": -0.0167,
+      "64": -0.0084,
+      "128": -0.0048,
+      "256": -0.0021
+    },
+    "Qdrant": {
+      "10": -0.0577,
+      "16": -0.0361,
+      "32": -0.0192,
+      "64": -0.01,
+      "128": -0.0053,
+      "256": -0.0031
+    },
+    "Weaviate": {
+      "10": -0.0624,
+      "16": -0.0403,
+      "32": -0.0225,
+      "64": -0.0112,
+      "128": -0.0061,
+      "256": -0.0032
+    }
+  },
+  "s3_e5_hybrid_gain_exact": [
+    {
+      "dataset": "scifact",
+      "hybrid_minus_dense": -0.0239,
+      "ci_lo": -0.0501,
+      "ci_hi": 0.0011,
+      "p": 0.7507,
+      "p_holm": 1.0
+    },
+    {
+      "dataset": "nfcorpus",
+      "hybrid_minus_dense": -0.009,
+      "ci_lo": -0.0232,
+      "ci_hi": 0.0051,
+      "p": 0.4984,
+      "p_holm": 1.0
+    },
+    {
+      "dataset": "fiqa",
+      "hybrid_minus_dense": -0.0482,
+      "ci_lo": -0.0668,
+      "ci_hi": -0.0299,
+      "p": 0.0,
+      "p_holm": 0.0
+    },
+    {
+      "dataset": "trec-covid",
+      "hybrid_minus_dense": -0.0076,
+      "ci_lo": -0.0401,
+      "ci_hi": 0.0248,
+      "p": 0.7353,
+      "p_holm": 1.0
+    },
+    {
+      "dataset": "squad",
+      "hybrid_minus_dense": 0.0786,
+      "ci_lo": 0.0637,
+      "ci_hi": 0.0936,
+      "p": 0.0,
+      "p_holm": 0.0
+    },
+    {
+      "dataset": "hotpotqa_sub",
+      "hybrid_minus_dense": 0.0065,
+      "ci_lo": -0.0022,
+      "ci_hi": 0.0151,
+      "p": 0.0965,
+      "p_holm": 0.3862
+    }
+  ],
+  "s4_vs_exact": {
+    "ef10": {
+      "n": 12,
+      "n_sig_holm": 12,
+      "n_equiv": 0,
+      "dEM_range": [
+        -0.077,
+        -0.042
+      ]
+    },
+    "ef16": {
+      "n": 12,
+      "n_sig_holm": 12,
+      "n_equiv": 0,
+      "dEM_range": [
+        -0.054,
+        -0.024
+      ]
+    },
+    "ef32": {
+      "n": 12,
+      "n_sig_holm": 6,
+      "n_equiv": 0,
+      "dEM_range": [
+        -0.031,
+        -0.008
+      ]
+    },
+    "ef64": {
+      "n": 12,
+      "n_sig_holm": 1,
+      "n_equiv": 11,
+      "dEM_range": [
+        -0.015,
+        0.001
+      ]
+    },
+    "ef128": {
+      "n": 12,
+      "n_sig_holm": 2,
+      "n_equiv": 12,
+      "dEM_range": [
+        -0.012,
+        0.003
+      ]
+    },
+    "ef256": {
+      "n": 12,
+      "n_sig_holm": 0,
+      "n_equiv": 12,
+      "dEM_range": [
+        -0.006,
+        0.004
+      ]
+    }
+  },
+  "s4_pairwise": {
+    "ef10": {
+      "n": 12,
+      "n_sig_holm": 0,
+      "n_equiv": 0,
+      "max_abs_dEM": 0.02
+    },
+    "ef16": {
+      "n": 12,
+      "n_sig_holm": 0,
+      "n_equiv": 3,
+      "max_abs_dEM": 0.019
+    },
+    "ef32": {
+      "n": 12,
+      "n_sig_holm": 0,
+      "n_equiv": 11,
+      "max_abs_dEM": 0.011
+    },
+    "ef64": {
+      "n": 12,
+      "n_sig_holm": 0,
+      "n_equiv": 12,
+      "max_abs_dEM": 0.004
+    },
+    "ef128": {
+      "n": 12,
+      "n_sig_holm": 0,
+      "n_equiv": 12,
+      "max_abs_dEM": 0.005
+    },
+    "ef256": {
+      "n": 12,
+      "n_sig_holm": 0,
+      "n_equiv": 12,
+      "max_abs_dEM": 0.004
+    }
+  },
+  "s4_chain": {
+    "squad/bge-base": {
+      "r_overlap_hit": 0.9956508566856164,
+      "r_hit_em": 0.9931099990571283,
+      "slope_em_per_hit": 0.708966052507257,
+      "logit": {
+        "hit5": {
+          "system_coef": {
+            "pgvector": 0.014186752807307832,
+            "weaviate": 0.013640091166132915
+          },
+          "system_p": {
+            "pgvector": 0.17433826952289588,
+            "weaviate": 0.22217504058747295
+          },
+          "retrieval_coef": 0.014186752807307832,
+          "retrieval_p": 0.17433826952289588
+        },
+        "overlap5": {
+          "system_coef": {
+            "pgvector": -0.013310634958610151,
+            "weaviate": 0.01893400513632016
+          },
+          "system_p": {
+            "pgvector": 0.30469119908459097,
+            "weaviate": 0.12961472875602909
+          },
+          "retrieval_coef": -0.013310634958610151,
+          "retrieval_p": 0.30469119908459097
+        }
+      }
+    },
+    "squad/bge-small": {
+      "r_overlap_hit": 0.990950437383538,
+      "r_hit_em": 0.9953471574491097,
+      "slope_em_per_hit": 0.6859979885830828,
+      "logit": {
+        "hit5": {
+          "system_coef": {
+            "pgvector": 0.018515223549348814,
+            "weaviate": 0.02048928806773458
+          },
+          "system_p": {
+            "pgvector": 0.11042090234454864,
+            "weaviate": 0.14713619840035416
+          },
+          "retrieval_coef": 0.018515223549348814,
+          "retrieval_p": 0.11042090234454864
+        },
+        "overlap5": {
+          "system_coef": {
+            "pgvector": 0.006373460246469785,
+            "weaviate": 0.038382453786931926
+          },
+          "system_p": {
+            "pgvector": 0.6131901519266507,
+            "weaviate": 0.002584563834324209
+          },
+          "retrieval_coef": 0.006373460246469785,
+          "retrieval_p": 0.6131901519266507
+        }
+      }
+    },
+    "hotpotqa_sub/bge-base": {
+      "r_overlap_hit": 0.9954643437789537,
+      "r_hit_em": 0.9866562548823553,
+      "slope_em_per_hit": 0.3825818460167267,
+      "logit": {
+        "hit5": {
+          "system_coef": {
+            "pgvector": 0.005319574875224015,
+            "weaviate": 0.0014687218729271384
+          },
+          "system_p": {
+            "pgvector": 0.7066363970080822,
+            "weaviate": 0.9107827689338828
+          },
+          "retrieval_coef": 0.005319574875224015,
+          "retrieval_p": 0.7066363970080822
+        },
+        "overlap5": {
+          "system_coef": {
+            "pgvector": -0.010882528485594959,
+            "weaviate": 0.006169206740062151
+          },
+          "system_p": {
+            "pgvector": 0.40264610751604724,
+            "weaviate": 0.6168606886949293
+          },
+          "retrieval_coef": -0.010882528485594959,
+          "retrieval_p": 0.40264610751604724
+        }
+      }
+    },
+    "hotpotqa_sub/bge-small": {
+      "r_overlap_hit": 0.9952051016935742,
+      "r_hit_em": 0.9780634546703807,
+      "slope_em_per_hit": 0.3161891402658637,
+      "logit": {
+        "hit5": {
+          "system_coef": {
+            "pgvector": -0.0023963274606084123,
+            "weaviate": 0.0011145440261534532
+          },
+          "system_p": {
+            "pgvector": 0.8614489826386392,
+            "weaviate": 0.9407874002447816
+          },
+          "retrieval_coef": -0.0023963274606084123,
+          "retrieval_p": 0.8614489826386392
+        },
+        "overlap5": {
+          "system_coef": {
+            "pgvector": -0.025936907770337324,
+            "weaviate": -0.013838846661989063
+          },
+          "system_p": {
+            "pgvector": 0.06084160899802488,
+            "weaviate": 0.33944015003871253
+          },
+          "retrieval_coef": -0.025936907770337324,
+          "retrieval_p": 0.06084160899802488
+        }
+      }
+    }
+  },
+  "s4_effect_sizes": [
+    {
+      "effect": "Retrieval ceiling (oracle \u2212 exact dense)",
+      "dataset": "SQuAD",
+      "dEM": 0.153,
+      "lo": 0.126,
+      "hi": 0.18,
+      "p": 0.0,
+      "p_holm": 0.0
+    },
+    {
+      "effect": "Context vs none (exact dense \u2212 closed book)",
+      "dataset": "SQuAD",
+      "dEM": 0.518,
+      "lo": 0.486,
+      "hi": 0.55,
+      "p": 0.0,
+      "p_holm": 0.0
+    },
+    {
+      "effect": "Embedding model (bge-base \u2212 bge-small)",
+      "dataset": "SQuAD",
+      "dEM": 0.046,
+      "lo": 0.023,
+      "hi": 0.068,
+      "p": 0.0001,
+      "p_holm": 0.0004
+    },
+    {
+      "effect": "Hybrid vs dense (exact)",
+      "dataset": "SQuAD",
+      "dEM": 0.02,
+      "lo": -0.002,
+      "hi": 0.042,
+      "p": 0.0953,
+      "p_holm": 0.4763
+    },
+    {
+      "effect": "ANN at ef=10 (Weaviate \u2212 exact)",
+      "dataset": "SQuAD",
+      "dEM": -0.072,
+      "lo": -0.091,
+      "hi": -0.054,
+      "p": 0.0,
+      "p_holm": 0.0
+    },
+    {
+      "effect": "DB choice at ef=128 (largest pair: Weaviate \u2212 pgvector)",
+      "dataset": "SQuAD",
+      "dEM": 0.005,
+      "lo": -0.001,
+      "hi": 0.011,
+      "p": 0.1797,
+      "p_holm": 0.7188
+    },
+    {
+      "effect": "Retrieval ceiling (oracle \u2212 exact dense)",
+      "dataset": "HotpotQA-sub",
+      "dEM": 0.165,
+      "lo": 0.139,
+      "hi": 0.191,
+      "p": 0.0,
+      "p_holm": 0.0
+    },
+    {
+      "effect": "Context vs none (exact dense \u2212 closed book)",
+      "dataset": "HotpotQA-sub",
+      "dEM": 0.301,
+      "lo": 0.269,
+      "hi": 0.333,
+      "p": 0.0,
+      "p_holm": 0.0
+    },
+    {
+      "effect": "Embedding model (bge-base \u2212 bge-small)",
+      "dataset": "HotpotQA-sub",
+      "dEM": -0.001,
+      "lo": -0.022,
+      "hi": 0.02,
+      "p": 1.0,
+      "p_holm": 1.0
+    },
+    {
+      "effect": "Hybrid vs dense (exact)",
+      "dataset": "HotpotQA-sub",
+      "dEM": 0.005,
+      "lo": -0.016,
+      "hi": 0.026,
+      "p": 0.7117,
+      "p_holm": 1.0
+    },
+    {
+      "effect": "ANN at ef=10 (Weaviate \u2212 exact)",
+      "dataset": "HotpotQA-sub",
+      "dEM": -0.059,
+      "lo": -0.078,
+      "hi": -0.04,
+      "p": 0.0,
+      "p_holm": 0.0
+    },
+    {
+      "effect": "DB choice at ef=128 (largest pair: Qdrant \u2212 pgvector)",
+      "dataset": "HotpotQA-sub",
+      "dEM": 0.003,
+      "lo": 0.0,
+      "hi": 0.007,
+      "p": 0.25,
+      "p_holm": 0.75
+    }
+  ]
+}

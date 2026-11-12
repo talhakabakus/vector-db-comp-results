@@ -1,0 +1,13 @@
+unit,db,ingest_s,ingest_sd,build_s,pss_peak_mb,disk_mb,pss_after_search_mb
+FiQA/bge-base,pgvector,109.0,1.0,106.0,1006.0,457.0,1029.0
+FiQA/bge-base,Qdrant,42.0,1.0,36.0,481.0,422.0,239.0
+FiQA/bge-base,Weaviate,45.0,1.0,0.0,682.0,215.0,727.0
+HotpotQA-sub/bge-base,pgvector,205.0,2.0,195.0,5439.0,1601.0,3656.0
+HotpotQA-sub/bge-base,Qdrant,200.0,6.0,178.0,1362.0,1008.0,681.0
+HotpotQA-sub/bge-base,Weaviate,215.0,5.0,0.0,1734.0,717.0,2160.0
+Quora/bge-base,pgvector,519.0,7.0,473.0,14061.0,4144.0,8796.0
+Quora/bge-base,Qdrant,446.0,9.0,382.0,3365.0,1764.0,1662.0
+Quora/bge-base,Weaviate,490.0,7.0,0.0,3899.0,1800.0,5273.0
+Quora/bge-small,pgvector,364.0,4.0,354.0,5820.0,1849.0,4163.0
+Quora/bge-small,Qdrant,355.0,2.0,311.0,1900.0,1534.0,913.0
+Quora/bge-small,Weaviate,413.0,2.0,0.0,2516.0,1058.0,3078.0

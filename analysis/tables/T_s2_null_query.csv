@@ -1,0 +1,4 @@
+db,p50_ms,p95_ms
+pgvector,0.249,0.463
+Qdrant,1.348,1.713
+Weaviate,1.529,2.218

@@ -1,0 +1,495 @@
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T06:55:05.669426Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T06:55:05.669557Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T06:55:05.675387Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T06:55:05.736280Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T06:58:42.916380Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T06:58:42.916408Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T06:58:42.925683Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T06:58:42.966976Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T06:59:33.972766Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T06:59:33.972793Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T06:59:33.985142Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T06:59:34.029169Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T07:00:44.519551Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T07:00:44.519583Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T07:00:44.531370Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T07:00:44.577448Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T07:01:33.912719Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T07:01:33.912749Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T07:01:33.924220Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T07:01:33.964659Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T07:02:38.910835Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T07:02:38.910867Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T07:02:38.922249Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T07:02:38.961444Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T07:07:12.026182Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T07:07:12.026212Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T07:07:12.038180Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T07:07:12.080070Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T07:14:04.248605Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T07:14:04.248672Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T07:14:04.260666Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T07:14:04.315529Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T07:24:44.934295Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T07:24:44.934326Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T07:24:44.946122Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T07:24:44.988307Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T07:39:00.313717Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T07:39:00.313763Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T07:39:00.332143Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T07:39:00.391625Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T07:41:28.896109Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T07:41:28.896134Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T07:41:28.906991Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T07:41:28.958812Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T08:37:41.759091Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T08:37:41.759240Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T08:37:41.784153Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T08:37:41.890489Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T08:55:33.924204Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T08:55:33.924235Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T08:55:33.940124Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T08:55:34.020006Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T09:29:55.915079Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T09:29:55.915270Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T09:29:55.933406Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T09:29:56.006743Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T10:14:43.628732Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T10:14:43.628766Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T10:14:43.641750Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T10:14:43.686595Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T14:25:11.275666Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T14:25:11.275691Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T14:25:11.300207Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T14:25:11.555677Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T14:25:31.274390Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T14:25:31.274448Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T14:25:31.298749Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T14:25:31.360258Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T14:39:19.911410Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T14:39:19.911463Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T14:39:19.937248Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T14:39:19.995690Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-10T14:39:41.786624Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-10T14:39:41.786649Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-10T14:39:41.813010Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-10T14:39:41.901853Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T19:27:26.423911Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T19:27:26.423949Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T19:27:26.434690Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T19:27:26.629476Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T19:27:39.743480Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T19:27:39.743504Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T19:27:39.760203Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T19:27:39.803080Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T19:27:54.989382Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T19:27:54.989406Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T19:27:55.015532Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T19:27:55.066083Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T19:28:06.539450Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T19:28:06.539482Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T19:28:06.550903Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T19:28:06.596916Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T19:28:20.597735Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T19:28:20.597775Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T19:28:20.608165Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T19:28:20.661175Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T19:29:15.462356Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T19:29:15.462384Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T19:29:15.472338Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T19:29:15.509259Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T20:29:40.549184Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T20:29:40.549236Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T20:29:40.566808Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T20:29:40.664113Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T20:32:14.134134Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T20:32:14.134162Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T20:32:14.144312Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T20:32:14.183817Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T21:33:28.513253Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T21:33:28.513334Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T21:33:28.535830Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T21:33:28.691442Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T21:34:08.053428Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T21:34:08.053467Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T21:34:08.073403Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T21:34:08.133008Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T21:35:03.761117Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T21:35:03.761142Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T21:35:03.789822Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T21:35:03.866082Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T21:38:31.144827Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T21:38:31.144860Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T21:38:31.161466Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T21:38:31.225359Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T21:43:19.157612Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T21:43:19.157642Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T21:43:19.170812Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T21:43:19.224109Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.20.0, build: 222b2e44
+Access web UI at http://localhost:6333/dashboard
+Agentic Skills: https://skills.qdrant.tech/
+
+2026-11-11T21:50:13.172665Z  WARN qdrant::settings: Config file not found: config/config
+2026-11-11T21:50:13.172735Z  WARN qdrant::settings: Config file not found: config/development
+2026-11-11T21:50:13.200045Z  WARN qdrant: There is a potential issue with the filesystem for storage path /tmp/vdb/data/qdrant/storage. Details: Container filesystem detected - storage might be lost with container re-creation
+2026-11-11T21:50:13.371479Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist

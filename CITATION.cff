@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these results or scripts, please cite them as below."
+type: dataset
+title: "Raw results and scripts for: Does the Vector Database Matter for Retrieval-Augmented Generation? An Iso-Recall, End-to-End and Statistically Grounded Comparison of Qdrant, Weaviate and pgvector"
+version: 1.0.0
+authors:
+  - family-names: Kabakus
+    given-names: Abdullah Talha
+    affiliation: "Department of Computer Engineering, Faculty of Engineering, Duzce University, Türkiye"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - vector database
+  - retrieval-augmented generation
+  - HNSW
+  - Qdrant
+  - Weaviate
+  - pgvector
+  - benchmark
+abstract: >-
+  Raw measurements, per-query results, generated answers, statistical analysis outputs and scripts (S0–S6) of an
+  iso-recall, end-to-end comparison of Qdrant 1.20, Weaviate 1.40 and PostgreSQL 16 with pgvector 0.8.7 as the
+  retrieval layer of RAG systems.

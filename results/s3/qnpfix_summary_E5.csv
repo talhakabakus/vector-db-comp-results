@@ -1,0 +1,9 @@
+,,ndcg10,p50_ms
+db,,qdrant,qdrant
+dataset,method,,
+fiqa,dense,0.3991,2.7654
+fiqa,hybrid,0.3529,4.0708
+fiqa,lexical,0.2377,3.0782
+trec-covid,dense,0.7781,2.7928
+trec-covid,hybrid,0.7749,5.2636
+trec-covid,lexical,0.581,4.456
